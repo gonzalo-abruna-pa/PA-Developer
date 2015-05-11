@@ -1,0 +1,19 @@
+{
+    "username": "gabruna@pharma-advisors.es.developer", 
+    "environment": "developer", 
+    "project_name": "PA-Developer", 
+    "workspace": "C:\\Users\\Gonzalo\\workspace-Sublime", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "HTD95940WIT65SIAVW132GLW9NKTPOBO", 
+    "metadata_container": "1dc240000009dFHAAY", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
